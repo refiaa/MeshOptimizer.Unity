@@ -1,0 +1,3 @@
+[submodule "Assets/UnityMeshSimplifier"]
+	path = Assets/UnityMeshSimplifier
+	url = https://github.com/Whinarn/UnityMeshSimplifier.git
